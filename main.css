@@ -1,0 +1,133 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Sulphur Point', sans-serif;
+    background: dodgerBlue;
+    color: white;
+}
+
+#box{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#character02{
+    min-width: 450px;
+    height: auto;
+}
+
+#box2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#box2 > button{
+    padding: 15px;
+    margin: 15px;
+    font-size: 14pt;
+    -webkit-box-shadow: 0px 0px 5px 2px #969696; 
+    box-shadow: 0px 0px 5px 2px #969696;
+    border: none;
+    border-radius: 10px;
+    transition: 0.5s all;
+    cursor: pointer;
+    outline: none;
+    letter-spacing: 2px;
+}
+#box2 > button:hover{
+    -webkit-box-shadow: 0px 0px 10px 5px yellow; 
+    box-shadow: 0px 0px 10px 5px yellow;
+}
+
+input{
+    display: block;
+    text-align: center;
+    margin: 20px auto 0 auto;
+    padding: 15px;
+    font-size: 14pt;
+    -webkit-box-shadow: 0px 0px 5px 2px #969696; 
+    box-shadow: 0px 0px 5px 2px #969696;
+    border: none;
+    border-radius: 10px;
+    transition: 0.5s all;
+    cursor: pointer;
+    outline: none;
+    letter-spacing: 2px;
+}
+
+input:hover{
+    -webkit-box-shadow: 0px 0px 10px 5px yellow; 
+    box-shadow: 0px 0px 10px 5px yellow;
+}
+
+#box3{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#metabolism{
+    font-size: 16pt;
+    letter-spacing: 2px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#say{
+    font-size: 22pt;
+    letter-spacing: 2px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+#yellow{
+    font-weight: bolder;
+    color: rgb(242, 240, 92);
+}
+
+#green{
+    font-weight: bolder;
+    color: greenyellow;
+}
+
+#red{
+    font-weight: bolder;
+    color: darkRed;
+}
+
+#orange{
+    font-weight: bolder;
+    color: cyan;
+}
+
+#talk:hover{
+    background: dodgerblue;
+    color: white;
+}
+
+#normal:hover{
+    background: blue;
+    color: white;
+}
+
+#happy:hover{
+    background: green;
+    color: white;
+}
+
+#sad:hover{
+    background: darkgoldenrod;
+    color: white;
+}
+
+#eat:hover{
+    background: darkorchid;
+    color: white;
+}
+
+#angry{
+    visibility: hidden;
+}

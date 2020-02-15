@@ -1,0 +1,172 @@
+{
+    "sayings":[
+        {
+            "mood": "happy",
+            "perc": 0.5,
+            "saying": "Today is the greatest day I've ever known."
+        },
+        {
+            "mood": "happy",
+            "perc": 0.5,
+            "saying": "Yippee"
+        },
+        {
+            "mood": "happy",
+            "perc": 0.5,
+            "saying": "hell, yeah!!!!!"
+        },
+        {
+            "mood": "happy",
+            "perc": 0.5,
+            "saying": "yeah bro!!"
+        },
+        {
+            "mood": "happy",
+            "perc": 0.5,
+            "saying": "HAHAHAHAHAHHAHAHAH!!"
+        },
+        {
+            "mood": "angry",
+            "perc": 0.2,
+            "saying": "Toasting my marshmallows"
+        },
+        {
+            "mood": "angry",
+            "perc": 0.2,
+            "saying": "Shut up!!!"
+        },
+        {
+            "mood": "angry",
+            "perc": 0.2,
+            "saying": "F**k off!!!"
+        },
+        {
+            "mood": "angry",
+            "perc": 0.2,
+            "saying": "You SOB"
+        },
+        {
+            "mood": "angry",
+            "perc": 0.2,
+            "saying": "Attttaa MAAAAJIIII SATAKLI!!!!"
+        },
+        {
+            "mood": "sad",
+            "perc": 0.1,
+            "saying": "I'm a wet noodle of sadness :("
+        },
+        {
+            "mood": "sad",
+            "perc": 0.1,
+            "saying": "ohh no!!!"
+        },
+        {
+            "mood": "sad",
+            "perc": 0.1,
+            "saying": "sooooo sad"
+        },
+        {
+            "mood": "sad",
+            "perc": 0.1,
+            "saying": "Areee ree!!!"
+        },
+        {
+            "mood": "sad",
+            "perc": 0.1,
+            "saying": "Oh My God..."
+        },
+        {
+            "mood": "joke",
+            "perc": 0.4,
+            "saying": "Smoking will kill you... Bacon will kill you... But,smoking bacon will cure it."
+        },
+        {
+            "mood": "joke",
+            "perc": 0.4,
+            "saying": "What do you call a cow in earthquake? A milkshake"
+        },
+        {
+            "mood": "joke",
+            "perc": 0.4,
+            "saying": "Why did you didn't use me in my name as me?"
+        },
+        {
+            "mood": "joke",
+            "perc": 0.4,
+            "saying": "LOL"
+        },
+        {
+            "mood": "joke",
+            "perc": 0.4,
+            "saying": "The joke was a joke"
+        }
+    ],
+    "compliments":[
+        "bork you have the shiniest nose hairs!",
+        "bork is awesome!",
+        "bork was sexy!",
+        "bork was damned!",
+        "bork was bullshit!",
+        "bork was A'hole!",
+        "bork is good lad!",
+        "bork shits everywhere!",
+        "bork coding sucks sometimes!",
+        "bork I love coding!",
+        "bork coding for web is tought subject!"
+    ],
+    "foods":[
+        {
+            "foodName": "Oysters",
+            "foodValue": 5,
+            "foodPoisoning": 0.4
+        },{
+            "foodName": "Sushi",
+            "foodValue": 25,
+            "foodPoisoning": 0.2
+        },{
+            "foodName": "Khichdi",
+            "foodValue": 50,
+            "foodPoisoning": 0.1
+        },{
+            "foodName": "Bhaat",
+            "foodValue": 45,
+            "foodPoisoning": 0.1
+        },{
+            "foodName": "Samosa",
+            "foodValue": 75,
+            "foodPoisoning": 0.9
+        },{
+            "foodName": "Jalebi",
+            "foodValue": 85,
+            "foodPoisoning": 0.7
+        },{
+            "foodName": "Pauva",
+            "foodValue": 20,
+            "foodPoisoning": 0.1
+        },{
+            "foodName": "Omlet",
+            "foodValue": 35,
+            "foodPoisoning": 0.1
+        },{
+            "foodName": "Chicken",
+            "foodValue": 85,
+            "foodPoisoning": 0.7
+        },{
+            "foodName": "Bhakhri",
+            "foodValue": 45,
+            "foodPoisoning": 0.1
+        },{
+            "foodName": "Rotli",
+            "foodValue": 35,
+            "foodPoisoning": 0.1
+        },{
+            "foodName": "Bhajiya",
+            "foodValue": 65,
+            "foodPoisoning": 0.5
+        },{
+            "foodName": "Fafda",
+            "foodValue": 35,
+            "foodPoisoning": 0.8
+        }
+    ]
+}

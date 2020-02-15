@@ -1,0 +1,19 @@
+{
+  "name": "tamogochi",
+  "version": "1.0.0",
+  "description": "convert the tamo to es6 from es5",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "author": "Dhruvil Modi",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "keywords": [],
+  "dependencies": {
+    "gsap": "^3.0.2"
+  }
+}

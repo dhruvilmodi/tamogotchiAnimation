@@ -1,3 +1,2 @@
-# Tamogotchi Animation
-
-ES6 Javascript custom edition of tamogotchi using GSAP animation library.
+# tamo_convert_start
+convert the tamo to es6 from es5
